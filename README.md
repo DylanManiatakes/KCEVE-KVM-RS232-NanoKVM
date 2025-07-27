@@ -1,6 +1,6 @@
 # KCEVE 10 Port KVM Control with NanoKVM
 
-- I picked up this 10 port KVM Switch from Amazon its from a Chinese Brand called KCEVE, and the documentation from them is kind of Sh*t, so I made this repo.
+- I picked up this 10 port KVM Switch from Amazon: https://amzn.to/3H4COiA Its from a Chinese Brand called KCEVE, and the documentation from them is kind of Sh*t, so I made this repo.
 - The KVM Switch is going to a NanoKVM and a MOXA RS232-Ethernet controller.
 
 ## Serial Settings
